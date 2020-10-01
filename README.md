@@ -8,4 +8,4 @@ As of 10/01/2020, Vak anti-cheat does undetect cheats. Codes are for information
 
 # Connect with me
 Discord: Уй#8048
-<hr>Youtube: https://www.youtube.com/channel/UCkAldFCFSeFz1h61lHv4t6Q
+<br>Youtube: https://www.youtube.com/channel/UCkAldFCFSeFz1h61lHv4t6Q
