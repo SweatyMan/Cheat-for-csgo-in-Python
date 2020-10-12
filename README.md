@@ -4,7 +4,7 @@
 3. Run the cheat.
 
 # A responsibility
-As of 10/01/2020, Vak anti-cheat does undetect cheats. Codes are for informational purposes only and you are responsible for your account!
+As of 12.10.2020, Vak anti-cheat does undetect cheats. Codes are for informational purposes only and you are responsible for your account!
 
 # Connect with me
 Discord: Уй#8048
